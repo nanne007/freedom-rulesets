@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "re.xyz",
+        "midas.app",
+        "saturn.credit",
+        "coinbase.com"
+      ]
+    }
+  ]
+}

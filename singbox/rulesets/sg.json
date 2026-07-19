@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "binance.com",
+        "huobi.com",
+        "okx.com",
+        "kraken.com",
+        "bitfinex.com",
+        "bittrex.com",
+        "bitstamp.net",
+        "gemini.com",
+        "bitmex.com",
+        "bitbank.cc",
+        "upbit.com",
+        "bitget.com",
+        "kucoin.com",
+        "gate.io",
+        "ftx.com",
+        "crypto.com",
+        "deribit.com",
+        "hyperliquid.xyz",
+        "maple.finance",
+        "ethena.fi"
+      ]
+    }
+  ]
+}
