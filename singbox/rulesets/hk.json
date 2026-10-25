@@ -10,7 +10,8 @@
         "coinbase.com",
         "matcha.xyz",
         "superform.xyz",
-        "boros.pendle.finance"
+        "boros.pendle.finance",
+        "api-boros.pendle.finance"
       ]
     }
   ]
